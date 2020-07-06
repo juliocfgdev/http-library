@@ -3,7 +3,6 @@
 Biblioteca para facilitar o consumo de API's 
 ### Tecnologias Usadas:
 * HTML5
-* CSS3 + Bootstrap
 * Vannila JS + ES6:
   * Arrow Functions
   * OOP com Classes
