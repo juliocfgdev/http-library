@@ -15,22 +15,22 @@ import { http } from './http'
 ```
 #### Métodos:
 ```javascript
-// Get Users
+// Get 
 http.get('url')
     .then(data => console.log(data))
     .catch(err => console.log(err));
     
-// Create User
+// Post
 http.post('url', data)
     .then(data => console.log(data))
     .catch(err => console.log(err));
 
-// Update User
+// Put
 http.put('url', data)
     .then(data => console.log(data))
     .catch(err => console.log(err));
 
-// Delete User
+// Delete
 http.delete('url')
     .then((data) => console.log(data))
     .catch(err => console.log(err));
