@@ -1,4 +1,4 @@
-# http-library2
+# http-library
 ## Descrição 
 Biblioteca para facilitar o consumo de API's 
 ### Tecnologias Usadas:
